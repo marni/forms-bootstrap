@@ -3,7 +3,7 @@
     "description": "An easy way to create, parse, and validate forms in Node and Express. Bootstrap-based HTML rendering.",
     "main": "./index",
     "author": "Caolan McMahon/Pradip P Caulagi/Mariusz Nowostawski",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "repository": {
         "type": "git",
         "url": "http://github.com/marni/forms-bootstrap.git"
